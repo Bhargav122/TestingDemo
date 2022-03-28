@@ -1,3 +1,3 @@
-this is read me file
+this is js read me file
 
 this js readme
